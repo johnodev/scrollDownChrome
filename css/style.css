@@ -1,0 +1,5 @@
+* { margin:0; padding:0; box-sizing:border-box; font-family: "Trebuchet MS", Helvetica, sans-serif; font-size:small;}
+.container{	padding:5px;}
+#main{	color: #8C489F; background: #F1F0FF; width:250px; }
+button { 	color: #fff; background: #8C489F; cursor:pointer; border: none; padding: 2px;text-align: center;text-decoration: none;display: inline-block; font-size: 16px; }
+label{cursor:pointer; display:inline-block; width:50px; text-align:left;}
